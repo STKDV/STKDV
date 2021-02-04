@@ -4,3 +4,4 @@ The first figure shows the time-evolving hotspot map in New York (from 2012 to 2
 ![](STKDV_New_York_Traffic_Accidents.gif)
 
 The second figure shows the time-evolving hotspot map in Upper Manhattan (from 2015 to 2019).
+![](STKDV_New_York_Traffic_Accidents_zoom_in.gif)
