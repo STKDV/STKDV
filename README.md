@@ -1,6 +1,7 @@
 In this Github link, we conduct two case studies, which are (1) traffic accident hotspot detection in New York and (2) COVID-19 hotspot detection in Hong Kong.
 
-Traffic accident hotspot detection in New York
+**(1) Traffic accident hotspot detection in New York**
+
 We show how we display STKDV as a time-evolving hotspot map in the New York traffic accident dataset [a], which contains nearly 1.3 million data points. Here, we adopt the 128x128x128 space-time cube for generating STKDV (i.e., the time-evolving hotspot map contains 128 timestamps).
 
 [a] NYC open data. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
@@ -13,7 +14,8 @@ We further zoom in to Upper Manhattan and generate STKDV again (with size 128x12
 
 In these two figures, we can observe that the traffic accident hotspots can change in different timestamps, which can be discovered by the STKDV tool.
 
-COVID-19 hotspot detection in Hong Kong
+**(2) COVID-19 hotspot detection in Hong Kong**
+
 We also display a time-evolving hotspot map in the Hong Kong COVID-19 dataset [b]. Here, we also use 128x128x128 space-time cube for generating STKDV.
 
 [b] Hong Kong GeoData Store https://geodata.gov.hk/gs/view-dataset?uuid=d4ccd9be-3bc0-449b-bd27-9eb9b615f2db&sidx=0
