@@ -27,5 +27,3 @@ In the first figure, it shows the distribution of the COVID-19 cases, starting f
 In the second figure, it shows the distribution of the last wave of the COVID-19 cases (November 2020 to now) in Kowloon. Observe that STKDV clearly shows that the hotspot changes from Mong Kok to Tsim Sha Tsui.
 
 ![](STKDV-Hong-Kong-Kowloon-COVID-19.gif)
-
-
