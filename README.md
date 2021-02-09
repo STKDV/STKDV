@@ -27,4 +27,5 @@ In the second figure, it shows the distribution of the last wave of the COVID-19
 ![](STKDV-Hong-Kong-Kowloon-COVID-19.gif)
 
 **Reproducing our results**
+
 All the codes for generating these time-evolving hotspot map can be found in the zip file. Please install npm before you run our code. To run our code, please use cmd and access the directory "./Time_evolving_hotspot_map_code/Time_evolving_hotspot_map_code". Then, you need to type these two commands (1) npm install and (2) npm start. Since the size of these result files are large, we only provide the time-evolving hotspot map for Upper Manhattan.
