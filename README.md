@@ -1,4 +1,4 @@
-In this Github link, we conduct two case studies, which are (1) traffic accident hotspot detection in New York and (2) COVID-19 hotspot detection in Hong Kong.
+In this Github repository, we conduct two case studies, which are (1) traffic accident hotspot detection in New York and (2) COVID-19 hotspot detection in Hong Kong.
 
 **(1) Traffic accident hotspot detection in New York**
 
