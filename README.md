@@ -15,10 +15,10 @@ We also display a time-evolving hotspot map in the Hong Kong COVID-19 dataset [b
 
 [b] Hong Kong GeoData Store https://geodata.gov.hk/gs/view-dataset?uuid=d4ccd9be-3bc0-449b-bd27-9eb9b615f2db&sidx=0
 
-In the first figure, it shows the distribution of the COVID-19 cases, starting from 13th February 2020 to 5th February 2021. We can observe that STKDV tool clearly shows different waves in Hong Kong and indicates that Kowloon is the hotspot of COVID-19 cases in Hong Kong.
+In the first figure, it shows the distribution of the COVID-19 cases, starting from 13th February 2020 to 5th February 2021. This STKDV tool clearly shows different waves in Hong Kong and indicates that Kowloon is the hotspot of COVID-19 cases in Hong Kong.
 ![](HK_COVID_19.gif)
 
-In the second figure, it shows the distribution of the last wave of the COVID-19 cases (November 2020 to February 2021) in Kowloon. Observe that STKDV clearly shows that the hotspot changes from Mong Kok to Tsim Sha Tsui.
+In the second figure, it shows the distribution of the last wave of the COVID-19 cases (November 2020 to February 2021) in Kowloon. Observe that the hotspot changes from Mong Kok to Tsim Sha Tsui.
 ![](HK_KLN_COVID_19.gif)
 
 **(3) Reproducing our results**
