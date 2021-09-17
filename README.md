@@ -25,11 +25,11 @@ In the second figure, it shows the distribution of the last wave of the COVID-19
 
 **(3) Reproducing our results**
 
-All the codes for generating these time-evolving hotspot map can be found in the file "Time_evolving_hotspot_map_code.zip". To run our code, you need to follow these three steps.
+All the codes for generating these time-evolving hotspot map can be found in the file "Time_evolving_hotspot_map_code_release.zip". To run our code, you need to follow these three steps.
 
 1: Install node.js
 
-2: Use cmd (in Windows) to access the directory "./Time_evolving_hotspot_map_code/Time_evolving_hotspot_map_code"
+2: Use cmd (in Windows) to access the directory "./Time_evolving_hotspot_map_code_release/Time_evolving_hotspot_map_code_release"
 
 3: Type these two commands (1) npm install and (2) npm start
 
