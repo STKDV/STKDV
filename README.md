@@ -2,7 +2,7 @@ In this Github repository, we first show the code for the efficiency experiments
 
 **(1) The code for the efficiency experiments in our paper**
 
-In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the size of each dataset is large. Therefore, we only provide the code here. Nevertheless, those datasets are publicly available, which can be found in the references of Table 3.
+In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the size of each dataset is large. Therefore, we only provide the code here. Nevertheless, all datasets that are used in our paper are publicly available, which can be found in the references of Table 3.
 
 **(2) Case Studies**
 We conduct two case studies, which are (2a) traffic accident hotspot detection in New York and (2b) COVID-19 hotspot detection in Hong Kong.
