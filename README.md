@@ -2,7 +2,7 @@ In this Github repository, we first show the code for the efficiency experiments
 
 **(1) The code for the efficiency experiments in our paper**
 
-In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code (via Cygwin) by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the size of each dataset is large. Therefore, we only provide the code here. Nevertheless, all datasets that are used in our paper are publicly available, which can be found in the references of Table 3. As a remark, we also discuss how we obtain the default parameters ![](http://www.sciweavers.org/upload/Tex2Img_1633183452/render.png) and ![](http://www.sciweavers.org/upload/Tex2Img_1633183221/render.png) for spatial and temporal kernels in the document "para_selection.pdf". 
+In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code (via Cygwin) by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the size of each dataset is large. Therefore, we only provide the code here. Nevertheless, all datasets that are used in our paper are publicly available, which can be found in the references of Table 3. As a remark, we also discuss how we obtain the default parameters ![](http://www.sciweavers.org/upload/Tex2Img_1633183452/render.png) and ![](http://www.sciweavers.org/upload/Tex2Img_1633183221/render.png) for spatial and temporal kernels, respectively, in the document "para_selection.pdf". 
 
 
 **(2) Case Studies**
