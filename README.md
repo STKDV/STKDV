@@ -29,7 +29,7 @@ In the second figure, it shows the distribution of the last wave of the COVID-19
 
 ![](HK_KLN_COVID_19.gif)
 
-**(3) Reproducing the time-evolving hotspot map**
+**(3) Reproducing the time-evolving hotspot maps**
 
 All the codes for generating these time-evolving hotspot map can be found in the file "Time_evolving_hotspot_map_code_release.zip". To run our code, you need to follow these three steps.
 
