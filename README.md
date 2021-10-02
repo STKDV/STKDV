@@ -2,7 +2,7 @@ In this Github repository, we first show the codes for our paper.
 
 **The codes for our paper**
 
-In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the sizes of datasets are large. Therefore, we only provide the code here. Nevertheless, those datasets are publicly available, which can be found in the references of Table 3.
+In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the size of each dataset is large. Therefore, we only provide the code here. Nevertheless, those datasets are publicly available, which can be found in the references of Table 3.
 
 Then, we conduct two case studies, which are (1) traffic accident hotspot detection in New York and (2) COVID-19 hotspot detection in Hong Kong.
 
@@ -29,7 +29,7 @@ In the second figure, it shows the distribution of the last wave of the COVID-19
 
 ![](HK_KLN_COVID_19.gif)
 
-**(3) Reproducing our results**
+**(3) Reproducing the time-evolving hotspot map**
 
 All the codes for generating these time-evolving hotspot map can be found in the file "Time_evolving_hotspot_map_code_release.zip". To run our code, you need to follow these three steps.
 
