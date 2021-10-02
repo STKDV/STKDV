@@ -1,4 +1,10 @@
-In this Github repository, we conduct two case studies, which are (1) traffic accident hotspot detection in New York and (2) COVID-19 hotspot detection in Hong Kong.
+In this Github repository, we first show the codes for our paper.
+
+**The codes for our paper**
+
+In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the sizes of datasets are large. Therefore, we only provide the code here. Nevertheless, those datasets are publicly available, which can be found in the references of Table 3.
+
+Then, we conduct two case studies, which are (1) traffic accident hotspot detection in New York and (2) COVID-19 hotspot detection in Hong Kong.
 
 **(1) Traffic accident hotspot detection in New York**
 
