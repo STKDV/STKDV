@@ -1,12 +1,13 @@
-In this Github repository, we first show the code for the efficiency experiments in our paper.
+In this Github repository, we first show the code for the efficiency experiments in our paper. Then, we conduct two case studies for using time-evolving hotspot maps to understand hotspots. Lastly, we show the code for generating these time-evolving hotspot maps.
 
-**The code for the efficiency experiments in our paper**
+**(1) The code for the efficiency experiments in our paper**
 
 In the "STKDV_Git_release.zip" file, it contains the shell script file "compile_and_run.sh". We can compile our code by running this script file. In addition, this script file describes each input variable in detail and provide an example for running our code. Unfortunately, the size of each dataset is large. Therefore, we only provide the code here. Nevertheless, those datasets are publicly available, which can be found in the references of Table 3.
 
-Then, we conduct two case studies, which are (1) traffic accident hotspot detection in New York and (2) COVID-19 hotspot detection in Hong Kong.
+**(2) Case Studies**
+We conduct two case studies, which are (2a) traffic accident hotspot detection in New York and (2b) COVID-19 hotspot detection in Hong Kong.
 
-**(1) Traffic accident hotspot detection in New York**
+**(2a) Traffic accident hotspot detection in New York**
 
 We show how we display STKDV as a time-evolving hotspot map in the New York traffic accident dataset [a], which contains nearly 1.5 million data points. Here, we adopt the 128x128x128 space-time cube for generating STKDV (i.e., the time-evolving hotspot map contains 128 timestamps) for the Upper Manhattan region in New York.
 
@@ -15,7 +16,7 @@ We show how we display STKDV as a time-evolving hotspot map in the New York traf
 In this figure, observe that the size of hotspots can change with respect to different timestamps.
 ![](New_York_Traffic_accidents.gif)
 
-**(2) COVID-19 hotspot detection in Hong Kong**
+**(2b) COVID-19 hotspot detection in Hong Kong**
 
 We also display a time-evolving hotspot map in the Hong Kong COVID-19 dataset [b]. Here, we also use 128x128x128 space-time cube for generating STKDV.
 
